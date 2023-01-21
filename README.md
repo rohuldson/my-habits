@@ -2,6 +2,7 @@
 
 <p align="center">
 Desenvoilvido na semana NLW da rocketseat para promover o ensino em tecnologia. <br/>
+
 </p>
 
 <p align="center">
@@ -12,13 +13,13 @@ Desenvoilvido na semana NLW da rocketseat para promover o ensino em tecnologia. 
 </p>
 
 <p align="center">
-  <img alt="License" src="">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="https://raw.githubusercontent.com/maykbrito/devlinks/main/.github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src="" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,7 +37,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 -   [Acesse o projeto finalizado, online](https://rohuldson.github.io/my-habits/)
 
-
+-   [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
 ## 🔖 Layout
 
@@ -48,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da comunidade da Rocketseat !](https://discord.gg/rocketseat)
+Feito com ♥ by Rohuldson :wave: 
